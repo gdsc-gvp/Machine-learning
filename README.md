@@ -18,6 +18,11 @@
 ## Machine-learning
 
 
+Important Algorithms for a beginner to learn and implement Machine Learning:
+
+Linear Regression Logistic Regression K-Nearest Neighbours K-Means Clustering Naive Bayes SVMs Decision Trees Random Forest Dimensionality Reduction Algorithms Gradient Boosting algorithms- XGBoost.
+
+
 ## Contributing  
 This repository is contribution friendly. If you'd like to add or improve any algorithm, your contribution is welcome!  
 Don't forget to follow [Contribution Guidelines](.github/CONTRIBUTING.md) 😃   
