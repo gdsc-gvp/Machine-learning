@@ -37,9 +37,9 @@ Linear Regression Logistic Regression K-Nearest Neighbours K-Means Clustering Na
 
 ## Event details :
 
-- Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
+- Hacktoberfest® is open to everyone . Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
 - All backgrounds and skill levels are encouraged to complete the challenge.
-- Hacktoberfest is a celebration open to everyone in our global community.
+- Hacktoberfest is a celebration open to everyone.
 - You can sign up anytime between October 1 and October 31.
 
 ---
