@@ -61,3 +61,11 @@ This repository is contribution friendly. If you'd like to add or improve any al
 Don't forget to follow [Contribution Guidelines](.github/CONTRIBUTING.md) 😃   
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+## Thanks to all the contributors ❤️
+
+<a href = "https://github.com/gdsc-gvp/Machine-learning/graphs/contributors">
+
+  <img src = "https://contrib.rocks/image?repo=gdsc-gvp/Machine-learning"/>
+
+</a>
